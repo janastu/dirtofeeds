@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Namma School Radio]]></title>
+        <description><![CDATA[School Raw files]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 25 Sep 2018 09:17:13 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[15jun]]></title>
+            <guid isPermaLink="false">15jun</guid>
+            <file>ForAnnotation\Pocket pi\15jun\recorded@15Jun2018_14_25.mp3</file>
+        </item>
+        <item>
+            <title><![CDATA[15jun]]></title>
+            <guid isPermaLink="false">15jun</guid>
+            <file>ForAnnotation\Pocket pi\15jun\recorded@15Jun2018_14_44.mp3</file>
+        </item>
+        <item>
+            <title><![CDATA[15jun]]></title>
+            <guid isPermaLink="false">15jun</guid>
+            <file>ForAnnotation\Pocket pi\15jun\recorded@15Jun2018_14_28.mp3</file>
+        </item>
+        <item>
+            <title><![CDATA[15jun]]></title>
+            <guid isPermaLink="false">15jun</guid>
+            <file>ForAnnotation\Pocket pi\15jun\recorded@15Jun2018_14_26.mp3</file>
+        </item>
+        <item>
+            <title><![CDATA[15jun]]></title>
+            <guid isPermaLink="false">15jun</guid>
+            <file>ForAnnotation\Pocket pi\15jun\recorded@15Jun2018_14_49.mp3</file>
+        </item>
+        <item>
+            <title><![CDATA[15jun]]></title>
+            <guid isPermaLink="false">15jun</guid>
+            <file>ForAnnotation\Pocket pi\15jun\recorded@15Jun2018_14_50.mp3</file>
+        </item>
+        <item>
+            <title><![CDATA[15jun]]></title>
+            <guid isPermaLink="false">15jun</guid>
+            <file>ForAnnotation\Pocket pi\15jun\recorded@15Jun2018_14_47.mp3</file>
+        </item>
+        <item>
+            <title><![CDATA[15jun]]></title>
+            <guid isPermaLink="false">15jun</guid>
+            <file>ForAnnotation\Pocket pi\15jun\recorded@15Jun2018_15_04.mp3</file>
+        </item>
+        <item>
+            <title><![CDATA[15jun]]></title>
+            <guid isPermaLink="false">15jun</guid>
+            <file>ForAnnotation\Pocket pi\15jun\recorded@15Jun2018_15_08.mp3</file>
+        </item>
+        <item>
+            <title><![CDATA[15jun]]></title>
+            <guid isPermaLink="false">15jun</guid>
+            <file>ForAnnotation\Pocket pi\15jun\recorded@15Jun2018_15_09.mp3</file>
+        </item>
+        <item>
+            <title><![CDATA[15jun]]></title>
+            <guid isPermaLink="false">15jun</guid>
+            <file>ForAnnotation\Pocket pi\15jun\recorded@15Jun2018_15_10.mp3</file>
+        </item>
+    </channel>
+</rss>
